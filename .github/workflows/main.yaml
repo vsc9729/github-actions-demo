@@ -1,4 +1,3 @@
-name: Github Actions Demo
 on:
   pull_request:
     branches:
